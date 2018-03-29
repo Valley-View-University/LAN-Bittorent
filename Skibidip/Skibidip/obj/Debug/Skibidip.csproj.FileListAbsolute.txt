@@ -1,0 +1,4 @@
+c:\users\jochebed\documents\visual studio 2010\Projects\Skibidip\Skibidip\bin\Skibidip.dll
+c:\users\jochebed\documents\visual studio 2010\Projects\Skibidip\Skibidip\bin\Skibidip.pdb
+c:\users\jochebed\documents\visual studio 2010\Projects\Skibidip\Skibidip\obj\Debug\Skibidip.dll
+c:\users\jochebed\documents\visual studio 2010\Projects\Skibidip\Skibidip\obj\Debug\Skibidip.pdb
