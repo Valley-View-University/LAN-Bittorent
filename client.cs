@@ -130,12 +130,12 @@ public partial class FormClient : Form
 
     private void button2_Click(object sender, EventArgs e)
     {
-        //using (NetworkShareAccesser.Access(GetFQDN(), IPAddressCheck(), "arif.hidayatullah28@gmail.com", "971364825135win8"))
-        //{
+        using (NetworkShareAccesser.Access(GetFQDN(), IPAddressCheck(), "arif.hidayatullah28@gmail.com", "971364825135win8"))
+        {
 
-        //    File.Copy("\\\\"+label1.Text+"\\TestFolder\\"+fPath.getNama+"", @"D:\movie\"+ fPath.getNama+"", true);
+            File.Copy("\\\\"+label1.Text+"\\TestFolder\\"+fPath.getNama+"", @"D:\movie\"+ fPath.getNama+"", true);
 
-        //}
+        }
     }
 
     private void button3_Click(object sender, EventArgs e)
